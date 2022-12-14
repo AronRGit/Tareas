@@ -1,0 +1,13 @@
+label,input{
+    display: block;
+}
+label{
+    font-weight: bold;
+}
+.btn{
+    display: block;
+    margin-top: 5px;
+}
+#mensaje{
+width: 100%;
+}
